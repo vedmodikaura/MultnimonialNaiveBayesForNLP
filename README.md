@@ -1,2 +1,2 @@
-# MultnimonialNaiveBayesForNLP
+# TeenspaceApp
 project
